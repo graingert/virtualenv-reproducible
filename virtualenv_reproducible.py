@@ -1,8 +1,8 @@
 """
-ensure the virtualenv doesn't download new packages
+ensure virtualenv doesn't download new copies of pip/setuptools/wheel.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.0.post0"
 
 import os
 
